@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Project%20Mlflow/End-to-End-Machine-Learning-Project-with-mlflow/mlruns/0/cfefd44ecfb64911b114e76fff848a89/artifacts
+end_time: 1691851738082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfefd44ecfb64911b114e76fff848a89
+run_name: burly-turtle-921
+run_uuid: cfefd44ecfb64911b114e76fff848a89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691851731537
+status: 3
+tags: []
+user_id: M.G.Jillani
